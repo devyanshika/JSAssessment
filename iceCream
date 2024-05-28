@@ -45,6 +45,6 @@ mintNFT("Pista Badam","Pistachio",180);
 mintNFT("Gulab Jamun","Rose Infused",190);
 mintNFT("Sheer Khurma ","Sewaiyan",200);
 listNFTs();
-getTotalSupply;
+getTotalSupply();
 
 
